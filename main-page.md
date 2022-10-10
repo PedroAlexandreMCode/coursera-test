@@ -4,14 +4,19 @@
   <h1>Hello Coursera!</h1>
 </head>
 <body>
-My First Alteration!
+  <h1>Lista sem Ordem</h1>
+  <div>
 
-<center><a href="https://www.youtube.com">
-<button>Youtube</button>
-</a> 
-</center>
-
-Test saving as Sublime Text automatic
-
-</body>
+Sabores de Brigadeiros da Loja:
+<ul>
+  <li>Limão</li>
+  <li>Casadinho</li>
+  <li>Moranguinho</li>
+  <li>Churros</li>
+  <ul>
+    <li>Doce de leite</li>
+    <li>Canela</li>
+    <li>Açúcar</li>
+</ul>
+</div>
 </html>
