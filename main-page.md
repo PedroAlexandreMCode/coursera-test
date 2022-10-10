@@ -18,5 +18,12 @@ Sabores de Brigadeiros da Loja:
     <li>Canela</li>
     <li>Açúcar</li>
 </ul>
+<p>Lista Ordenada</p>
+<ol>
+  <li>Limão</li>
+  <li>Casadinho</li>
+  <li>Moranguinho</li>
+  <li>Churros</li>
+</body>
 </div>
 </html>
